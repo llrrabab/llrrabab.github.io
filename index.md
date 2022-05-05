@@ -1,4 +1,4 @@
-<p style="color:#FFFFFF";>★</p>
+<font color=white>★</font>
 
 ## 个人信息
 - <a href="https://llrrabab.github.io/resume.html" target="_blank">个人简历</a>
