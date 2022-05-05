@@ -1,7 +1,7 @@
 
 
 ## 个人信息
-- (resume.md)<a href="resume.md" target="_blank">个人简历</a>
+- <a href="https://llrrabab.github.io/resume.html" target="_blank">个人简历</a>
 
 
 ## 文字作品集
