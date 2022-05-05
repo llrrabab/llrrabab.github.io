@@ -1,3 +1,4 @@
 # Site Settings
 title:  ★
 theme: jekyll-theme-minimal
+show_downloads: false
